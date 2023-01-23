@@ -1,3 +1,4 @@
 prepare
-make soup
-Learn Python
+make tea
+learn Python
+add python
