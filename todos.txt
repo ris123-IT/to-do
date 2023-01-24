@@ -1,4 +1,2 @@
-prepare
-make tea
 learn Python
 add python
